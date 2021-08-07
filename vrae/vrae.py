@@ -2,7 +2,7 @@ import numpy as np
 import torch
 from torch import nn, optim
 from torch import distributions
-from .base import BaseEstimator
+#from .base import BaseEstimator
 from torch.utils.data import DataLoader
 from torch.autograd import Variable
 import os
