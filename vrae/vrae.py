@@ -9,7 +9,7 @@ import os
 
 from sklearn.base import BaseEstimator as SklearnBaseEstimator
 
-
+# integrate class BaseEstimator from base.py
 class BaseEstimator(SklearnBaseEstimator):
     # http://msmbuilder.org/development/apipatterns.html
 
